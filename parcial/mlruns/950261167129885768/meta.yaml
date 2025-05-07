@@ -1,0 +1,6 @@
+artifact_location: file:///home/gonzadzz/GitHub/mlops_istea/parcial/mlruns/950261167129885768
+creation_time: 1746579053655
+experiment_id: '950261167129885768'
+last_update_time: 1746579053655
+lifecycle_stage: active
+name: decision_tree_training

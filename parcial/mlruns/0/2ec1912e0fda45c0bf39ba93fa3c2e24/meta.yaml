@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gonzadzz/GitHub/mlops_istea/parcial/mlruns/0/2ec1912e0fda45c0bf39ba93fa3c2e24/artifacts
+end_time: 1746577218920
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ec1912e0fda45c0bf39ba93fa3c2e24
+run_name: agreeable-turtle-342
+run_uuid: 2ec1912e0fda45c0bf39ba93fa3c2e24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746577218882
+status: 3
+tags: []
+user_id: gonzadzz

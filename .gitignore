@@ -1,5 +1,4 @@
 .venv/
-
 .env
 
 # Ignorar el almacenamiento local de DVC (datos, modelos, etc.)

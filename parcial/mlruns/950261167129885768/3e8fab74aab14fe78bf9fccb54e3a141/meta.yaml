@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gonzadzz/GitHub/mlops_istea/parcial/mlruns/950261167129885768/3e8fab74aab14fe78bf9fccb54e3a141/artifacts
+end_time: 1746579053679
+entry_point_name: ''
+experiment_id: '950261167129885768'
+lifecycle_stage: active
+run_id: 3e8fab74aab14fe78bf9fccb54e3a141
+run_name: thundering-wren-884
+run_uuid: 3e8fab74aab14fe78bf9fccb54e3a141
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746579053659
+status: 3
+tags: []
+user_id: gonzadzz

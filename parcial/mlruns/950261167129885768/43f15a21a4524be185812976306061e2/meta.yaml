@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gonzadzz/GitHub/mlops_istea/parcial/mlruns/950261167129885768/43f15a21a4524be185812976306061e2/artifacts
+end_time: 1746579085060
+entry_point_name: ''
+experiment_id: '950261167129885768'
+lifecycle_stage: active
+run_id: 43f15a21a4524be185812976306061e2
+run_name: shivering-shad-196
+run_uuid: 43f15a21a4524be185812976306061e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746579085037
+status: 3
+tags: []
+user_id: gonzadzz

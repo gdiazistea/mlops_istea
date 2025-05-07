@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gonzadzz/GitHub/mlops_istea/parcial/mlruns/0/ab812e7751644e8ea31712a7dc82b7e9/artifacts
+end_time: 1746576660339
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab812e7751644e8ea31712a7dc82b7e9
+run_name: beautiful-slug-755
+run_uuid: ab812e7751644e8ea31712a7dc82b7e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746576656720
+status: 3
+tags: []
+user_id: gonzadzz
