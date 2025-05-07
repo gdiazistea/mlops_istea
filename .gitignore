@@ -1,3 +1,14 @@
 .venv/
 
 .env
+
+# Ignorar el almacenamiento local de DVC (datos, modelos, etc.)
+/data/
+/model_*.pkl
+
+# Ignorar la caché de DVC (opcional, si no usás caché compartida)
+.dvc/cache/
+
+# Ignorar archivos generados automáticamente
+__pycache__/
+*.pyc
